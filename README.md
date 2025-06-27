@@ -52,9 +52,12 @@ In real-world maintenance, engineers often have to juggle machine recovery with 
 ## 📬 Contributions
 
 If you’re using a similar method or want to improve token tagging or visual design, feel free to fork the repo or submit a pull request.
-
 ---
-
 > 💡 *"Let the machines talk, while you fix them."*
+
+## 📁 Files in this Repository
+
+- `BreakdownData.xlsx` – Contains cleaned and tokenized WhatsApp message data
+- `BreakdownDashboard.pbix` – Power BI report connected to the Excel file
 
 
